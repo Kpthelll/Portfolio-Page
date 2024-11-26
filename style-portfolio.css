@@ -1,0 +1,49 @@
+* { margin: 0;
+    font-family:cursive;
+    font-size: x-large;
+}
+header { background-color: aliceblue;
+    text-align: center;
+    margin: auto;
+    padding:2.5rem;
+}
+body { margin: auto;
+    text-align: center;
+}
+h1 { font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+}
+.about { background-color: beige;
+    margin: auto;
+    padding: 2.0rem;
+}
+.awards { background-color: azure;
+    margin: auto;
+    padding: 2.0rem;
+}
+.RMMS { font-weight: bolder;
+}
+ol  {text-align: left;
+    list-style-type: decimal;
+    padding-left: 20%;
+    margin-left: 20%;
+}
+ul { text-align:left;
+    padding-left: 16%;
+    margin-left: 16%;
+}
+.projects { background-color:cornflowerblue;
+    padding: 2.0rem;
+}
+.contact { background-color:darksalmon;
+    text-align: left;
+    padding:2.5rem;
+}
+.copyright { background-color: darkgrey;
+    font-size: x-small;
+    padding: 0.54rem;
+}
+form input,
+form textarea { padding-top: 0;
+}
